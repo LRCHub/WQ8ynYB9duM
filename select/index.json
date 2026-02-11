@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Biggest Dreamer",
+  "base_artist": "和田光司",
+  "createdAt": "2026-02-11T13:56:42.970936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/01_The_Biggest_Dreamer_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Der größte Träumer (The Biggest Dreamer)",
+      "artist": "Frank Schindel",
+      "has_synced": false,
+      "path": "select/02_Der_größte_Träumer_(The_Biggest_Dreamer)_Frank_Schindel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "Wada Kouji",
+      "has_synced": true,
+      "path": "select/03_The_Biggest_Dreamer_Wada_Kouji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/04_The_Biggest_Dreamer_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wada Kouji - The Biggest Dreamer",
+      "artist": "OSTDigimon",
+      "has_synced": true,
+      "path": "select/05_Wada_Kouji_-_The_Biggest_Dreamer_OSTDigimon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "Koji Wada",
+      "has_synced": true,
+      "path": "select/06_The_Biggest_Dreamer_Koji_Wada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "Koji Wada",
+      "has_synced": true,
+      "path": "select/07_The_Biggest_Dreamer_Koji_Wada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "佐咲紗花",
+      "has_synced": false,
+      "path": "select/08_The_Biggest_Dreamer_佐咲紗花.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "Koji Wada",
+      "has_synced": true,
+      "path": "select/09_The_Biggest_Dreamer_Koji_Wada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer (TVサイズ)",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/10_The_Biggest_Dreamer_(TVサイズ)_和田光司.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "the biggest dreamer",
+      "artist": "wada koji",
+      "has_synced": true,
+      "path": "select/11_the_biggest_dreamer_wada_koji.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "Sayaka Sasaki",
+      "has_synced": false,
+      "path": "select/12_The_Biggest_Dreamer_Sayaka_Sasaki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer (Digimon Tamers)",
+      "artist": "Miura Jam BR",
+      "has_synced": true,
+      "path": "select/13_The_Biggest_Dreamer_(Digimon_Tamers)_Miura_Jam_BR.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer",
+      "artist": "Kyo Kimura",
+      "has_synced": true,
+      "path": "select/14_The_Biggest_Dreamer_Kyo_Kimura.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Biggest Dreamer (''Digimon Tamers OP'')",
+      "artist": "Kyo Kimura",
+      "has_synced": true,
+      "path": "select/15_The_Biggest_Dreamer_(''Digimon_Tamers_OP'')_Kyo_Kimura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Biggest Dreamer",
+      "artist": "和田光司",
+      "has_synced": false,
+      "path": "select/pl_01_The_Biggest_Dreamer_和田光司.txt"
+    }
+  ]
+}
